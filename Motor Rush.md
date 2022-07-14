@@ -1,16 +1,4 @@
 
-
-Dashboard
-Consent Management
-Policies
-Settings
-Privacy Policy Preview
-
-ADD TO WEBSITE
-
-EDIT
-
-DELETE
 PRIVACY NOTICE
 
 Last updated July 14, 2022
